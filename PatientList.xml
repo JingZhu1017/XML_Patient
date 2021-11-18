@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatientList>
+	<PatientDemographic>
+		<PatientName xml:space="preserve">
+			Robertson, Jack Lawrence
+		</PatientName>
+		<SSN>
+			121121121
+		</SSN>
+	</PatientDemographic>
+	<PatientDemographic>
+		<PatientName xml:space="preserve">
+			Alison, Robert H.
+		</PatientName>
+		<SSN>
+			521121121
+		</SSN>
+	</PatientDemographic>
+</PatientList>
